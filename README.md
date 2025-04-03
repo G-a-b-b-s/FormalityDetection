@@ -2,9 +2,11 @@
 A repository that aims to investigate more into the world of formality detection.
 
 DATASETS:    
-X-FORMAL
+X-FORMAL   
 GYAFC  
 https://huggingface.co/datasets/osyvokon/pavlick-formality-scores   
+https://www.kaggle.com/datasets/changwooyoo/informal-to-formal?select=generated_from_tweet.json
+https://www.kaggle.com/datasets/jef1056/discord-data   
 
 PAPERS:   
 https://arxiv.org/pdf/2204.08975 
