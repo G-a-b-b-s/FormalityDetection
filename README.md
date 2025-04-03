@@ -44,6 +44,7 @@ Fine-Tuning/OpenAI Custom GPTs: Fine-tuned on formality datasets.
 NOTEBOOKS   
 https://github.com/s-nlp/formality?tab=readme-ov-file
 https://github.com/YahooArchive/formality-classifier
+https://github.com/aashnadoshi2/Formality-Classification-NLP/blob/main/GYAFC_Corpus_Fomality_Classification.ipynb
 
 METRICS   
 Style accuracy  : 
